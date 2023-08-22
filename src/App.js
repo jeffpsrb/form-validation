@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Form from '.';
+import FormTugas from '.';
+
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <FormTugas />
     </div>
   );
 }
