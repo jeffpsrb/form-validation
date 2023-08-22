@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import FormTugas from '.';
+import FormTugas from './Tugas_Form';
+
 
 
 function App() {

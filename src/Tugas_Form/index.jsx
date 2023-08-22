@@ -1,6 +1,6 @@
 import React from "react";
-import Validation from "./validation";
-// import FormElemen from "./pembahasan/formElemen";
+import Validation from "./Tugas/validation";
+
 
 export default class FormTugas extends React.Component {
     render(){
